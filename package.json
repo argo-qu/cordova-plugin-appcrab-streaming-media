@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-streaming-media",
+  "name": "cordova-plugin-appcrab-streaming-media",
   "version": "1.0.2",
   "description": "This plugin allows you to stream audio and video in a fullscreen, native player on iOS and Android.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nchutchind/Streaming-Media-Cordova-Plugin.git"
+    "url": "git+https://github.com/argo-qu/cordova-plugin-appcrab-streaming-media"
   },
   "keywords": [
     "media",
@@ -21,7 +21,7 @@
   "author": "Nicholas Hutchind",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nchutchind/Streaming-Media-Cordova-Plugin/issues"
+    "url": "https://github.com/argo-qu/cordova-plugin-appcrab-streaming-media/issues"
   },
-  "homepage": "https://github.com/nchutchind/Streaming-Media-Cordova-Plugin#readme"
+  "homepage": "https://github.com/argo-qu/cordova-plugin-appcrab-streaming-media#readme"
 }
